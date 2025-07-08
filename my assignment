@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+   <h1 style="color:red;">Welcome to My Webpage</h1>
+     <p>This is the first paragraph on my webpage. It talks about how I'm learning HTML and having fun building my first site.</p>
+      <tr>
+<p>The second paragraph gives more information about what this page is about and what I plan to add in the future.</P>
+     <tr>
+   <p>This is a <strong>bold</strong> word to emphasize something important.</P> 
+<tr>
+<p>This is an <i>italiczed</i> word to add emphasis.
+<tr>
+<p>This is an <ins>underlined</ins> word to highlight something.
+<tr>
+<head>
+<h1> My Favorite Hobbies</h6>
+<tr>
+  <ul>
+<li>Reading books</li>
+<li>playing game</li>
+<li>coding</li>
+<p> Vist <a href="google.com">gooleg</a> to search for anything.
+
+</body>
+</html>
